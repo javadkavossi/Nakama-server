@@ -1,0 +1,6 @@
+logger:
+    level: DEBUG
+runtime:
+  go:
+    modules:
+      - ./modules
